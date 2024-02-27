@@ -2,7 +2,8 @@
 
 <br>
 
-Frontend Developer from Penza 🧊
+Frontend-developer, UI/UX designer from Penza 🧊.
+PSU, Software Engineering.
 
 <br>
 
