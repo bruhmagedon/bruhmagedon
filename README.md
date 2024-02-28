@@ -112,9 +112,7 @@ PSU, Software Engineering.
       </a>
       <br>Bootstrap
     </td>
-  </tr> 
-    <tr>
-    <td align="center" width="110" height="90"> 
+        <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
