@@ -141,7 +141,6 @@ PSU, Software Engineering.
 
 ## ☄️ Contact
 
-- :bird: &nbsp;**[VK](https://vk.com/bruhmagedon)**
 - :airplane: &nbsp;**[Telegram](https://t.me/tataringobb)**
 - :robot: &nbsp;**[Discord](https://discordapp.com/users/295235310705704971)**
 - :comet: &nbsp;**[Spotify](https://open.spotify.com/user/31v6casefpvuezvkegtu3v442ily?si=5f7696e4ac854524)**
