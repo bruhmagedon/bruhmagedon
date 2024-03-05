@@ -1,4 +1,4 @@
-<h1 align="left">:wave: Hello there! I'm Maxim Medvedev</h1>
+<h1 align="left">:wave: Hello, dudes! I'm Maxim Medvedev (aka bruhmagomed)</h1>
 
 <br>
 
