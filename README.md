@@ -1,6 +1,3 @@
-<h1 align="left">:wave: Hello, dudes! I'm Maxim Medvedev (aka bruhmagomed)</h1>
-
-<br>
 
 Frontend-developer, UI/UX designer from Penza 🧊.
 PSU, Software Engineering.
