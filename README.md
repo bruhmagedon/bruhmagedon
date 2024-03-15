@@ -136,25 +136,6 @@ PSU, Software Engineering.
   </tr> 
 </table>
 
-> Testing
-
-<table width='100%'>
-  <tr>
-     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg](https://brandeps.com/logo-download/J/Jest-logo-vector-01.svg" width="36" height="36" alt="jest" />
-      </a>
-      <br>Jest
-    </td>
-    <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
-      </a>
-      <br>prettier
-    </td>
-  </tr> 
-</table>
-
 ## ☄️ Contact
 
 - :airplane: &nbsp;**[Telegram](https://t.me/tataringobb)**
