@@ -1,4 +1,4 @@
-![image](https://github.com/bruhmagedon/bruhmagedon/assets/99552300/b008fe10-46fe-40bb-8a1a-aec7d268dafd)
+
 Frontend-developer, UI/UX designer from Penza 🧊.
 PSU, Software Engineering.
 
