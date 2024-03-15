@@ -1,4 +1,4 @@
-
+![image](https://github.com/bruhmagedon/bruhmagedon/assets/99552300/b008fe10-46fe-40bb-8a1a-aec7d268dafd)
 Frontend-developer, UI/UX designer from Penza 🧊.
 PSU, Software Engineering.
 
@@ -126,6 +126,25 @@ PSU, Software Engineering.
         <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="36" height="36" alt="eslint" />
       </a>
       <br>eslint
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
+      </a>
+      <br>prettier
+    </td>
+  </tr> 
+</table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg](https://brandeps.com/logo-download/J/Jest-logo-vector-01.svg" width="36" height="36" alt="jest" />
+      </a>
+      <br>Jest
     </td>
     <td align="center" width="110" height="90">
       <a href="#debabin-stack">
