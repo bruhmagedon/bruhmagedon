@@ -46,13 +46,8 @@ PSU, Software Engineering.
       </a>
       <br>git
     </td>
-    <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack">
-        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
-      </a>
-      <br>npm
-    </td>
-     <td align="center" width="110" height="90"> 
+  
+  <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
@@ -70,27 +65,14 @@ PSU, Software Engineering.
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="36" height="36" alt="React" />
       </a>
       <br>React
-    </td>
-    
- <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
-        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
-      </a>
-      <br>Redux
-    </td>
+   </td>
      <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      <a href="#debabin-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux " />
       </a>
-      <br>MUI
+      <br>Redux/RTK
     </td>
-   <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-        <td align="center" width="110" height="90"> 
+       <td align="center" width="110" height="90"> 
       <a href="#debabin-stack" >
         <img src="https://brandeps.com/icon-download/W/Webpack-icon-vector-02.svg" width="36" height="36" alt="Webpack" />
       </a>
@@ -113,6 +95,68 @@ PSU, Software Engineering.
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+      <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack">
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+  </tr> 
+</table>
+
+> UI Components
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" width="36" height="36" alt="Headless UI" />
+      </a>
+      <br>Headless UI
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" width="36" height="36" alt="Headless UI" />
+      </a>
+      <br>Headless UI
+    </td>
+  </tr> 
+</table>
+
+> Testing
+
+<table width='100%'>
+  <tr>
+     <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://user-images.githubusercontent.com/7266512/229356394-8222f091-b038-469b-a8a5-8f91c1877b20.png" width="36" height="36" alt="jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://raw.githubusercontent.com/leandroparisi/leandroparisi/main/assets/reactTestingLibrary-logo.png" width="36" height="36" alt="React Testing Library" />
+      </a>
+      <br>RTL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://camo.githubusercontent.com/8fcc828e60aa5b6da99758f483f165e47d1de33296b1f30992f261068b976934/68747470733a2f2f6f70656e636f6c6c6563746976652d70726f64756374696f6e2e73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f30313166633632302d346362322d313165392d613531612d6664626231306234636162622e706e67" width="36" height="36" alt="Storybook" />
+      </a>
+      <br>Storybook
     </td>
   </tr> 
 </table>
