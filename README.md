@@ -114,14 +114,36 @@ PSU, Software Engineering.
       </a>
       <br>Tailwind
    </td>
+  </tr> 
+</table>
+
+> Utils
+
+<table width='100%'>
+  <tr>
   <td align="center" width="110" height="90">
       <a href="#bruhmane-stack">
         <img src="https://i2.wp.com/miro.medium.com/1*elhu-42TzQEdsFjKDbQhhA.png" width="36" height="36" alt="TanStack/query" />
       </a>
       <br>TanStack/query
    </td>
+       <td align="center" width="110" height="90">
+      <a href="#bruhmane-stack">
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="36" height="36" alt="React HF" />
+      </a>
+      <br>ReactHookForm
+   </td>
+    </td>
+       <td align="center" width="110" height="90">
+      <a href="#bruhmane-stack">
+        <img src="https://bestofjs.org/logos/react-flow.dark.svg" width="36" height="36" alt="React Flow" />
+      </a>
+      <br>React Flow
+   </td>
+    
   </tr> 
 </table>
+
 
 > UI Components
 
