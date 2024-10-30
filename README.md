@@ -133,7 +133,14 @@ PSU, Software Engineering.
       </a>
       <br>ReactHookForm
    </td>
-    </td>
+     </td>
+       <td align="center" width="110" height="90">
+      <a href="#bruhmane-stack">
+        <img src="https://zod.dev/logo.svg" width="36" height="36" alt="zod" />
+      </a>
+      <br>Zod
+   </td>
+        </td>
        <td align="center" width="110" height="90">
       <a href="#bruhmane-stack">
         <img src="https://bestofjs.org/logos/react-flow.dark.svg" width="36" height="36" alt="React Flow" />
