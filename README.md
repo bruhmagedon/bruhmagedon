@@ -169,12 +169,6 @@ PSU, Software Engineering.
       </a>
       <br>mantine
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#bruhmane-stack">
-        <img src="https://seeklogo.com/images/H/headless-ui-logo-034B045C5C-seeklogo.com.png" width="36" height="36" alt="Headless UI" />
-      </a>
-      <br>Headless UI
-    </td>
       <td align="center" width="110" height="90">
       <a href="#bruhmane-stack">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
